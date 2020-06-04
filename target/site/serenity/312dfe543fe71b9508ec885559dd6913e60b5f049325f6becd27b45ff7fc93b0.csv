@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login test master story","Login with email and password get code","ERROR","2020-06-04T21:31:39.231+07:00[Asia/Bangkok]","0.0","18.51"
+"Search booking story","Search results should show the search term in the title","ERROR","2020-06-04T21:31:59.937+07:00[Asia/Bangkok]","0.0","21.73"

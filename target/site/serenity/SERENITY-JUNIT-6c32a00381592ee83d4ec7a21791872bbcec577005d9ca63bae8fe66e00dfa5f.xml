@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="testserenity.features.search.SearchBookingStory" skipped="0" tests="1" time="21.73" timestamp="2020-06-04 09:31:59"><testcase classname="testserenity.features.search.SearchBookingStory" name="Search results should show the search term in the title"><error message="no such window: target window already closed&#10;from unknown error: web view not found&#10;  (Session info: chrome=83.0.4103.61)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'GACONLONTON', ip: '192.168.206.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\GAWBC~1\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:59991}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: 195f660b769e20396e20b666d2aa6819&#10;*** Element info: {Using=css selector, value=div.sr_card_address_line a}" type="org.openqa.selenium.NoSuchWindowException">no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GACONLONTON', ip: '192.168.206.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\GAWBC~1\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:59991}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 195f660b769e20396e20b666d2aa6819
+*** Element info: {Using=css selector, value=div.sr_card_address_line a}</error><system-err>no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GACONLONTON', ip: '192.168.206.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\GAWBC~1\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:59991}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 195f660b769e20396e20b666d2aa6819
+*** Element info: {Using=css selector, value=div.sr_card_address_line a}&#13;
+testserenity.questions.ListOfResultQuestion.answeredBy(ListOfResultQuestion.java:18)&#13;
+testserenity.questions.ListOfResultQuestion.answeredBy(ListOfResultQuestion.java:10)&#13;
+testserenity.features.search.SearchBookingStory.search_results_should_show_the_search_term_in_the_title(SearchBookingStory.java:54)&#13;
+</system-err></testcase></testsuite>
